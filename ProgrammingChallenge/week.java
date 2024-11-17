@@ -32,7 +32,7 @@ public class week {
                 System.out.println("invalid number. Please enter a number between 1 and 7.");
         }
 
-        return;
+        sc.close();
         
 
 
